@@ -1,0 +1,45 @@
+# AutoTestGeneratorSamsung
+
+Updates:
+
+Oct2
+-Worked on Sections 3-4 on FSR, added new sections and assisted in writing for other subsystems.
+-Worked on Sections 5-6 on ICD, assisted on other sections.
+-Created Gnatt chart for Execution and Validation.
+-Programmed application.
+-Updated code to adjust user interface.
+
+
+Oct9
+-login page.
+-initial application setup.
+
+
+Oct16
+-Hardcoded data for graph output.
+-Worked on fragments within the application.
+
+Oct23
+-Calculates data average, pulls latest data reading and if there is no read on the sensor it shows a cross under "Functioning".
+-Has an about me page that mentions Samsung's About Us info.
+
+Oct30
+-logout feature that saves the credentials and secures the app.
+-Refined graph that outputs the data collected.
+
+Nov6
+-I applied a screen rotation feature that adapts all app tabs and fragments for user's preferences.
+-Applied scroll features when needed throughout the app.
+
+Nov13
+-Generates graph from data that is dynamic and adapts to that change.
+-Has a settings tab that allows for night mode within the app, gives the user the option to change credentials and check for updates.
+-cahnged the emulator to a Samsung device
+-changed the application parameters and fargments for each tab to adjust to the new Samsung device.
+
+
+Nov23
+-Creadted an online Fireabase database for all the sensor values.
+-Application pulls from online database and generates graphs.
+-Physical phone for application to work on.
+
