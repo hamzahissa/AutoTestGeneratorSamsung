@@ -1,0 +1,6 @@
+Howdy,
+
+This week I was able to finally figure out the error with the JDBC driver not being recongized when the program is run through the esp32/server. Now, I am able to insert data into SQL through the esp32 as a start command. 
+
+Best regards,
+Amrit Nanda
