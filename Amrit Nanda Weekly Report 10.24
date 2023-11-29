@@ -1,0 +1,6 @@
+Howdy,
+
+This week I was able to get the MCU to send signals over the python server to start the java program. There is 1 small issue in that the program is not recognizing the driver referenced in the code when the code is started with the esp32, so I plan on fixing this this week. 
+
+Best regards,
+Amrit Nanda
